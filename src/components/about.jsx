@@ -75,7 +75,7 @@ class About extends React.Component {
         {
           id: 'first-p-about',
           content:
-            'I am an electronic engineer with 1 year of experience as a full-stack developer. I am proficient in React JS, Expo, Express JS, PHP, Laravel, Photoshop, Figma, Unity, and Phaser. I am also an enthusiast of water sports, music, motorcycles, and nature.',
+            "I'm an electronic engineer with 1 year of experience as a full-stack developer. I am proficient in React JS, Expo, Express JS, PHP, Laravel, Photoshop, Figma, Unity, and Phaser. I am also an enthusiast of water sports, music, motorcycles, and nature.",
         },
         {
           id: 'second-p-about',
@@ -85,7 +85,7 @@ class About extends React.Component {
         {
           id: 'third-p-about',
           content:
-            'I am looking for a position in a company where I can use my skills and experience to create innovative products and services. I am confident that I can be a valuable asset to your team and I am eager to contribute to your success.',
+            "I'm looking for a position in a company where I can use my skills and experience to create innovative products and services. I am confident that I can be a valuable asset to your team and I am eager to contribute to your success.",
         },
       ],
     }
@@ -106,7 +106,7 @@ class About extends React.Component {
                         style={{ margin: '0 auto' }}>
                         <div
                           className='about-img'
-                          style={{ textAlign: 'center' }}>
+                          style={{ textAlign: 'justify' }}>
                           <img
                             className='img-fluid rounded b-shadow-a'
                             alt=''
