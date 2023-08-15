@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/portafolio-2.0/static/css/main.063f1152.chunk.css",
-    "main.js": "/portafolio-2.0/static/js/main.5786de84.chunk.js",
-    "main.js.map": "/portafolio-2.0/static/js/main.5786de84.chunk.js.map",
+    "main.js": "/portafolio-2.0/static/js/main.26fb4a12.chunk.js",
+    "main.js.map": "/portafolio-2.0/static/js/main.26fb4a12.chunk.js.map",
     "runtime-main.js": "/portafolio-2.0/static/js/runtime-main.37ed0358.js",
     "runtime-main.js.map": "/portafolio-2.0/static/js/runtime-main.37ed0358.js.map",
     "static/css/2.a417cd58.chunk.css": "/portafolio-2.0/static/css/2.a417cd58.chunk.css",
-    "static/js/2.e6434560.chunk.js": "/portafolio-2.0/static/js/2.e6434560.chunk.js",
-    "static/js/2.e6434560.chunk.js.map": "/portafolio-2.0/static/js/2.e6434560.chunk.js.map",
+    "static/js/2.438f5ffe.chunk.js": "/portafolio-2.0/static/js/2.438f5ffe.chunk.js",
+    "static/js/2.438f5ffe.chunk.js.map": "/portafolio-2.0/static/js/2.438f5ffe.chunk.js.map",
     "index.html": "/portafolio-2.0/index.html",
-    "precache-manifest.4ee394061b2326db2553187f7500974d.js": "/portafolio-2.0/precache-manifest.4ee394061b2326db2553187f7500974d.js",
+    "precache-manifest.c45e7ec1ba49cec48e0c967467f1eada.js": "/portafolio-2.0/precache-manifest.c45e7ec1ba49cec48e0c967467f1eada.js",
     "service-worker.js": "/portafolio-2.0/service-worker.js",
     "static/css/2.a417cd58.chunk.css.map": "/portafolio-2.0/static/css/2.a417cd58.chunk.css.map",
     "static/css/main.063f1152.chunk.css.map": "/portafolio-2.0/static/css/main.063f1152.chunk.css.map",
-    "static/js/2.e6434560.chunk.js.LICENSE.txt": "/portafolio-2.0/static/js/2.e6434560.chunk.js.LICENSE.txt",
+    "static/js/2.438f5ffe.chunk.js.LICENSE.txt": "/portafolio-2.0/static/js/2.438f5ffe.chunk.js.LICENSE.txt",
     "static/media/Hrsistem1.png": "/portafolio-2.0/static/media/Hrsistem1.9270427e.png",
     "static/media/Hrsistem2.jpeg": "/portafolio-2.0/static/media/Hrsistem2.903bdac1.jpeg",
     "static/media/Hrsistem3.jpeg": "/portafolio-2.0/static/media/Hrsistem3.685a5112.jpeg",
@@ -23,6 +23,8 @@
     "static/media/contac.jpg": "/portafolio-2.0/static/media/contac.3c5883bc.jpg",
     "static/media/expo 2.png": "/portafolio-2.0/static/media/expo 2.a617c448.png",
     "static/media/font-awesome.css": "/portafolio-2.0/static/media/fontawesome-webfont.fee66e71.woff",
+    "static/media/game.png": "/portafolio-2.0/static/media/game.be153efa.png",
+    "static/media/game1.jpg": "/portafolio-2.0/static/media/game1.7d292213.jpg",
     "static/media/gym1.png": "/portafolio-2.0/static/media/gym1.8043f9e8.png",
     "static/media/gym2.png": "/portafolio-2.0/static/media/gym2.9e9de480.png",
     "static/media/gym3.png": "/portafolio-2.0/static/media/gym3.f2f3b5c1.png",
@@ -50,8 +52,8 @@
   "entrypoints": [
     "static/js/runtime-main.37ed0358.js",
     "static/css/2.a417cd58.chunk.css",
-    "static/js/2.e6434560.chunk.js",
+    "static/js/2.438f5ffe.chunk.js",
     "static/css/main.063f1152.chunk.css",
-    "static/js/main.5786de84.chunk.js"
+    "static/js/main.26fb4a12.chunk.js"
   ]
 }

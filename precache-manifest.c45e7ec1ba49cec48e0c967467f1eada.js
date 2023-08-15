@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "42f2c5e3401149d67d1cc58bf90141f6",
+    "revision": "37b61523ce694fa8bdb183770064b959",
     "url": "/portafolio-2.0/index.html"
   },
   {
-    "revision": "910891f2e75899d1bfab",
+    "revision": "0dc0fc3f38769a4ff7a6",
     "url": "/portafolio-2.0/static/css/2.a417cd58.chunk.css"
   },
   {
-    "revision": "8fcc327a366f646a26b7",
+    "revision": "03eeac2e5d6d4705104b",
     "url": "/portafolio-2.0/static/css/main.063f1152.chunk.css"
   },
   {
-    "revision": "910891f2e75899d1bfab",
-    "url": "/portafolio-2.0/static/js/2.e6434560.chunk.js"
+    "revision": "0dc0fc3f38769a4ff7a6",
+    "url": "/portafolio-2.0/static/js/2.438f5ffe.chunk.js"
   },
   {
     "revision": "3d1505d5ad776592001d74444b4b127a",
-    "url": "/portafolio-2.0/static/js/2.e6434560.chunk.js.LICENSE.txt"
+    "url": "/portafolio-2.0/static/js/2.438f5ffe.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "8fcc327a366f646a26b7",
-    "url": "/portafolio-2.0/static/js/main.5786de84.chunk.js"
+    "revision": "03eeac2e5d6d4705104b",
+    "url": "/portafolio-2.0/static/js/main.26fb4a12.chunk.js"
   },
   {
     "revision": "3722d83f00ead5761d6e",
@@ -78,6 +78,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "fee66e712a8a08eef5805a46892932ad",
     "url": "/portafolio-2.0/static/media/fontawesome-webfont.fee66e71.woff"
+  },
+  {
+    "revision": "be153efa74eb9565ecdaa01a47acc3a9",
+    "url": "/portafolio-2.0/static/media/game.be153efa.png"
+  },
+  {
+    "revision": "7d292213ded26da9870600c7784f6754",
+    "url": "/portafolio-2.0/static/media/game1.7d292213.jpg"
   },
   {
     "revision": "8043f9e89b032e3aa02124d57400b0d5",
