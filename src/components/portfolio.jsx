@@ -25,6 +25,9 @@ import gym2 from '../img/gym2.png'
 import gym3 from '../img/gym3.png'
 import gym4 from '../img/gym4.png'
 
+import game from '../img/game.png'
+import game1 from '../img/game1.jpg'
+
 import stock from '../img/image1.jpg'
 import stock1 from '../img/image2.jpeg'
 import stock2 from '../img/image3.png'
@@ -95,11 +98,11 @@ class Portfolio extends React.Component {
                 </a>
 
                 <a href='https://admin.sitamm.com/login' target='_blank'>
-                  <h6 className='col-sm-8'>production project</h6>
+                  <h6 className='col-sm-8'>- Production project.</h6>
                 </a>
 
                 <a href='https://github.com/jhonshua/sitamm' target='_blank'>
-                  <h6 className='col-sm-8'>a bit of the code</h6>
+                  <h6 className='col-sm-8'>- Code github.</h6>
                 </a>
                 <br />
               </div>
@@ -151,10 +154,10 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a href='http://128.199.6.217:81/auth/login' target='_blank'>
-                  <h6 className='col-sm-8'>production project MERN</h6>
+                  <h6 className='col-sm-8'>- Production project MERN.</h6>
                 </a>
                 <a href='https://grupopampas.com.mx/' target='_blank'>
-                  <h6 className='col-sm-8'>production WEB</h6>
+                  <h6 className='col-sm-8'> - Production project WEB.</h6>
                 </a>
                 <br />
               </div>
@@ -241,12 +244,56 @@ class Portfolio extends React.Component {
                 <a
                   href='http://v3.desarrollo-hrsystem.site/login'
                   target='_blank'>
-                  <h6 className='col-sm-8'>production project MERN</h6>
+                  <h6 className='col-sm-8'>-Production project MERN</h6>
                 </a>
-                <a href='https://github.com/jhonshua/Poryecto-Hr-PHP'>
-                  <h6 className='col-sm-8' target='_blank'>
-                    a bit of the code
-                  </h6>
+                <a
+                  href='https://github.com/jhonshua/Poryecto-Hr-PHP'
+                  target='_blank'>
+                  <h6 className='col-sm-8'>- Code github.</h6>
+                </a>
+                <br />
+              </div>
+            </div>
+
+            <div className='col-md-4'>
+              <div className='work-box'>
+                <a href={game} data-lightbox='gallery-game'>
+                  <div className='work-img'>
+                    <img src={game} alt='' className='img-fluid' />
+                  </div>
+                  <div className='work-content'>
+                    <div className='row'>
+                      <div className='col-sm-8'>
+                        <h2 className='w-title'>
+                          Project in javascript creation of a 2d game
+                        </h2>
+                        <div className='w-more'>
+                          <span className='w-ctegory'>Game phaser 4 </span>
+                        </div>
+                      </div>
+                      <div className='col-sm-4'>
+                        <div className='w-like'>
+                          <span className='ion-ios-plus-outline'></span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+                <a
+                  href={game1}
+                  data-lightbox='gallery-game'
+                  style={{ display: 'none' }}>
+                  jsx-a11y/anchor-has-content warning
+                </a>
+                <a
+                  href='https://jhonshua.github.io/juego-jascript/'
+                  target='_blank'>
+                  <h6 className='col-sm-8'>-Production project MERN</h6>
+                </a>
+                <a
+                  href='https://github.com/jhonshua/juego-jascript'
+                  target='_blank'>
+                  <h6 className='col-sm-8'>- Code github.</h6>
                 </a>
                 <br />
               </div>
@@ -299,9 +346,14 @@ class Portfolio extends React.Component {
                   jsx-a11y/anchor-has-content warning
                 </a>
                 <a
-                  href='http://v3.desarrollo-hrsystem.site/login'
+                  href='https://jhonshua.github.io/Pagina-Comercial-Gym/'
                   target='_blank'>
-                  <h6 className='col-sm-8'>production project MERN</h6>
+                  <h6 className='col-sm-8'>- Production project MERN</h6>
+                </a>
+                <a
+                  href='https://github.com/jhonshua/Pagina-Comercial-Gym'
+                  target='_blank'>
+                  <h6 className='col-sm-8'>- Code github.</h6>
                 </a>
                 <br />
               </div>

@@ -75,7 +75,7 @@ class About extends React.Component {
         {
           id: 'first-p-about',
           content:
-            "I'm an electronic engineer with 1 year of experience as a full-stack developer. I am proficient in React JS, Expo, Express JS, PHP, Laravel, Photoshop, Figma, Unity, and Phaser. I am also an enthusiast of water sports, music, motorcycles, and nature.",
+            "I'm an electronic engineer with +1 year of experience as a full-stack developer. I am proficient in React JS, Expo, Express JS, PHP, Laravel, Photoshop, Figma, Unity, and Phaser. I am also an enthusiast of water sports, music, motorcycles, and nature.",
         },
         {
           id: 'second-p-about',
@@ -162,7 +162,7 @@ class About extends React.Component {
                 <div>
                   <h6>download my resume </h6>
                   <a
-                    href='https://drive.google.com/uc?export=download&id=1EFKxV-diV8KCi_o1EvcS73PFwQsIjZBi'
+                    href='https://drive.google.com/file/d/1YxNqeAJxda4qMHul5Ok1dePoRNY4Qrsg/view?usp=sharing'
                     download='resume.pdf'>
                     {' '}
                     <img
